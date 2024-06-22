@@ -18,7 +18,7 @@ int main() {
     
     int a;
 
-    cout << "Ingresa un número entero:";
+    cout << "Ingresa un número entero: ";
     cin >> a;
 
     tablaMultiplicar(a);
