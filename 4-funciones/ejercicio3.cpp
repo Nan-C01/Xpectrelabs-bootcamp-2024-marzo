@@ -8,10 +8,19 @@
 
 using namespace std;
 
+float notaFinal(int nota1, int nota2, int nota3) {
+
+}
+
 int main() {
     
+    // el programa es para una sola materia, creo, así que no sería necesario un bucle.
+    // hay que preguntar tres cosas: nombre de la materia, laboratorio, y aquí dependiendo de la respuesta, las 3 o 6 "notas de periodo"
     
-     
+    // declarar variables de calificaciones
+    // preguntar si tiene laboratorio
+    // solicitar valores de variables
+    // invocar función para calificación
 
     return 0;
 }
